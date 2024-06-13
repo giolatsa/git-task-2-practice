@@ -5,6 +5,12 @@ fschanged line 4
 fschanged line 5
 fs line 6
 fs line 7
+fs line 4
+fs line 5
+fschanged line 6
+fschanged line 7
 fs line 8
-fsupdated line 9
-fsupdated line 10
+fs another step 19 line 7
+fs another step 19 line 8
+fsupdated STEP 20 line 9
+fsupdated STEP 20 line 10
